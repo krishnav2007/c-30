@@ -1,0 +1,2 @@
+# c-30
+ slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) } slingshot.attach(bird.body) }
